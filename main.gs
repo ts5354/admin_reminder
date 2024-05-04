@@ -34,7 +34,7 @@ for ( var i = 1; i < 3; i++ ) {
             dayText += "\n"
             dayText += String(events[j].getTitle()+'\n');
             dayText += "\n"
-            dayText +="```イベントまであと"+i+"日```"
+            dayText +="```イベントまで、あと"+i+"日```"
             dayText += "\n"
             dayText += "\n"
             
